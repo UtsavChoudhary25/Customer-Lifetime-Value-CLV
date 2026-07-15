@@ -1,4 +1,4 @@
-# Customer Churn Prediction Using Machine Learning
+# Customer-Lifetime-Value-CLV
 
 ## Overview
 
